@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/user/Desktop/pra"
+		},
+		{
+			"path": "../tobot"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tobot"
+	}
+}
